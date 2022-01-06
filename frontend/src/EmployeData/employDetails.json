@@ -1,0 +1,93 @@
+[
+    {
+        "emp_name":"Patty O’Furniture",
+        "emp_id":"123451",
+        "emp_address":"18827 Flatley Burg Suite 703",
+        "emp_department":"Engineering",
+        "emp_designation":"Software Developer",
+        "emp_experience":"Have 3 years of experience in Big Data and Analytics.",
+        "emp_salary":"600000",
+        "emp_photo_path": "image/employe.jpg"
+    },
+    {
+        "emp_name":"Florence W. Rowe",
+        "emp_id":"123452",
+        "emp_address":"8058 McGlynn Wells",
+        "emp_department":"Manager",
+        "emp_designation":"Project Manger",
+        "emp_experience":"4 year of leading team and deploye products",
+        "emp_salary":"800000",
+        "emp_photo_path": "image/employe2.jpg"
+    },
+    {
+        "emp_name":"Olive Yew",
+        "emp_id":"123453",
+        "emp_address":"243 Pollich Loop",
+        "emp_department":"Engineering",
+        "emp_designation":"Software Developer",
+        "emp_experience":"Have 3 year of experince in Frontend development",
+        "emp_salary":"1000000",
+        "emp_photo_path": "image/employe3.jpg"
+    },
+    {
+        "emp_name":"Ray Sin",
+        "emp_id":"123454",
+        "emp_address":"9942 Flatley Turnpike Apt. 410",
+        "emp_department":"Manager",
+        "emp_designation":"Project Manger",
+        "emp_experience":"Have 11 years of experience and launch 4 products  ",
+        "emp_salary":"900000",
+        "emp_photo_path": "image/employe4.jpg"
+    },
+    {
+        "emp_name":"Rita Book",
+        "emp_id":"123455",
+        "emp_address":"9791 Keyshawn Union",
+        "emp_department":"Finance",
+        "emp_designation":"accountent",
+        "emp_experience":"Have 4 year of managing account .",
+        "emp_salary":"1200000",
+        "emp_photo_path": "image/employe5.jpg"
+    },
+    {
+        "emp_name":"Paige Turner",
+        "emp_id":"123456",
+        "emp_address":"95633 Bernhard Course",
+        "emp_department":"Engineering",
+        "emp_designation":"Software Developer",
+        "emp_experience":"Have 4 years of experience in developing backend and architecture.",
+        "emp_salary":"1100000",
+        "emp_photo_path": "image/employe6.jpg"
+    },
+    {
+        "emp_name":"Chris Anthemum",
+        "emp_id":"123457",
+        "emp_address":"6786 Casper Drives Apt. 147",
+        "emp_department":"Finance",
+        "emp_designation":"invesment Adviser",
+        "emp_experience":"Have 3 year of strategy investment.",
+        "emp_salary":"1500000",
+        "emp_photo_path": "image/employe7.jpg"
+    },
+    {
+        "emp_name":"Anita Bath",
+        "emp_id":"123458",
+        "emp_address":"42145 Romaguera Drive",
+        "emp_department":"Finance",
+        "emp_designation":"account manager",
+        "emp_experience":"Have 7 years of accountent.",
+        "emp_salary":"700000",
+        "emp_photo_path": "image/employe8.jpg"
+    },
+    {
+        "emp_name":"Harriet Upp",
+        "emp_id":"123459",
+        "emp_address":"4908 Johnson Ports Suite 370",
+        "emp_department":"Manager",
+        "emp_designation":"Project Manger",
+        "emp_experience":"Have 12 of launching project and exit 3 startup",
+        "emp_salary":"500000",
+        "emp_photo_path": "image/employe9.jpg"
+    }
+
+]
